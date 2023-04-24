@@ -8,3 +8,6 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+- [ ] Finish milestone
+- [ ] Buy some snacks from fusion
+- [ ] Prepare for the final
